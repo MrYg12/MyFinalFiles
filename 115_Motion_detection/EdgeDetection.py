@@ -1,5 +1,7 @@
 import cv2
 
+#Yakir
+
 # Загрузка изображения
 image = cv2.imread('images/LikeCT_2.jpg')
 
